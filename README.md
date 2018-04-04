@@ -1,2 +1,8 @@
-# Flutter_StaggeredGridView_Example
-This is an example about creating gridviews in Flutter
+# flutter_gridview_example
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
